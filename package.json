@@ -1,0 +1,24 @@
+{
+  "name": "cowsay-don-santiago",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "help": "cowsay -h",
+    "cows":"cowsay -l", "cowsay": "cowsay"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/cowsay-Don-Santiago.git"
+  },
+  "keywords": [],
+  "author": "Don Santiago <g00301287@stu.raritanval.edu> (https://github.com/Don-Santiago)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/cowsay-Don-Santiago/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/cowsay-Don-Santiago#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
